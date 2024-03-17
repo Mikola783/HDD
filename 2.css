@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    margin: 20% auto;
+}
+
+th,
+td {
+    padding: 10px 15px;
+    background: rgb(150, 214, 141);
+}
+
+th {
+    background: rgb(39, 77, 102);
+}
+
+td:hover {
+    cursor: pointer;
+    background: rgb(93, 177, 177);
+}
+img{
+    display: flex;
+    width: 90px;
+    height: 105px;
+}
